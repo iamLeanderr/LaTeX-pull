@@ -1,2 +1,2 @@
 # Hallo, mein Name ist Leander
-![Shrek] (A.jpg)
+![Shrek](A.jpg)
